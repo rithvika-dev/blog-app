@@ -50,7 +50,7 @@ function Register() {
 
       // ✅ FIXED URL (same backend as login)
       let res = await axios.post(
-        "http://localhost:5000/common-api/common",
+        "https://blog-app-4c2m.onrender.com/common-api/common",
         formData
       );
 
