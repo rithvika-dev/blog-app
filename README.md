@@ -124,6 +124,4 @@ NEW/
 - `/author-api/article`: Creates a new article (AUTHOR only).
 - `/author-api/article/:articleId`: Updates/Deletes an article (AUTHOR only).
 
-## License
 
-This project is licensed under the ISC License.
